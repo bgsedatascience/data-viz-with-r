@@ -1,0 +1,32 @@
+Jupyter (R Kernel):
+- https://github.com/IRkernel/IRkernel
+- https://irkernel.github.io/installation/
+- https://jupyter.org
+- https://www.datacamp.com/community/blog/jupyter-notebook-r
+
+R environment:
+- https://cran.r-project.org
+- https://www.rstudio.com
+
+R libraries:
+- caret
+- cluster
+- dplyr
+- fpc
+- ggbiplot / install_github("vqv/ggbiplot")
+- ggfortify
+- ggplot2 / https://ggplot2.tidyverse.org
+- ggpubr
+- gridExtra
+- igraph
+- kernlab
+- lattice
+- mlbench
+- plotly
+- readr
+- reticulate
+- stats
+- tidyverse
+
+Python libraries:
+- pandas
